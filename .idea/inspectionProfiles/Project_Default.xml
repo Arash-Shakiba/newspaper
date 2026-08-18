@@ -1,0 +1,79 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="621" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="async-timeout" />
+          <option value="attrs" />
+          <option value="bitarray" />
+          <option value="brotli" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="coverage" />
+          <option value="crypto" />
+          <option value="cryptography" />
+          <option value="cytoolz" />
+          <option value="djangorestframework" />
+          <option value="eth-abi" />
+          <option value="eth-account" />
+          <option value="eth-hash" />
+          <option value="eth-keyfile" />
+          <option value="eth-keys" />
+          <option value="eth-rlp" />
+          <option value="eth-typing" />
+          <option value="eth-utils" />
+          <option value="Flask" />
+          <option value="flask-unittest" />
+          <option value="frozenlist" />
+          <option value="h2" />
+          <option value="hexbytes" />
+          <option value="hpack" />
+          <option value="hyperframe" />
+          <option value="idna" />
+          <option value="itsdangerous" />
+          <option value="jdatetime" />
+          <option value="Jinja2" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="kafka-python" />
+          <option value="lru-dict" />
+          <option value="MarkupSafe" />
+          <option value="multidict" />
+          <option value="Naked" />
+          <option value="parsimonious" />
+          <option value="protobuf" />
+          <option value="py-solc-x" />
+          <option value="pycparser" />
+          <option value="pycryptodome" />
+          <option value="pytz" />
+          <option value="pyunormalize" />
+          <option value="pywin32" />
+          <option value="PyYAML" />
+          <option value="referencing" />
+          <option value="regex" />
+          <option value="requests" />
+          <option value="rlp" />
+          <option value="rpds-py" />
+          <option value="semantic-version" />
+          <option value="shellescape" />
+          <option value="toolz" />
+          <option value="urllib3" />
+          <option value="web3" />
+          <option value="websockets" />
+          <option value="Werkzeug" />
+          <option value="yarl" />
+          <option value="zstandard" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
